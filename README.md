@@ -2,8 +2,15 @@
 
 Aset visual untuk AI Studio Pro aplikasi.
 
-## Struktur
-- `/icons` - Icon visual (fixed, tidak ada update)
-- `/thumbnails` - Preset thumbnails (regular update)
+## Struktur Folder
+- `/icons` - Icon-icon aplikasi
+- `/illustrations` - Gambar ilustrasi
+- `/backgrounds` - Background images
 
-## Raw URL Format
+## Cara Menggunakan
+- Raw URL: `https://raw.githubusercontent.com/...`
+- Atau clone sebagai submodule
+- Atau install via npm
+
+## Versi
+v1.0.0 - Initial release
